@@ -5,14 +5,14 @@
 </picture>
 
 
-## Hi, I'm Tahsen Islam Sajon ⚓
+## Hello, I'm Tahsen Islam Sajon ⚓
 
-- 🛠️ Machine Learning Engineer at ACI Limited, Bangladesh.
+- 🛠️ **Machine Learning Engineer** at ACI Limited, Bangladesh.
 
-- ✨ My interests include, broadly: Applied Machine Learning Research (Particularly in Computer Vision), Distributed Scalable Systems, etc.**
+- ✨ My interests include, broadly: **Applied Machine Learning Research (Particularly in Computer Vision), Distributed Scalable Systems, etc.**
 
 - ✨ Curious about my work? Dive into the pinned repositories below.
 
-- 👨‍💻 All of my projects are available at [lostsputnik.github.io](https://lostsputnik.github.io/)
+- 👨‍💻 Details are available at [lostsputnik.github.io](https://lostsputnik.github.io/)
 
 - 📫 Post your favorite books and Harry Potter trivia to **sajon.tahsen@gmail.com**
