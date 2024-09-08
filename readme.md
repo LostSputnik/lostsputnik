@@ -9,7 +9,7 @@
 
 - 🛠️ **Machine Learning Engineer** at ACI Limited, Bangladesh.
 
-- ✨ My interests include, broadly: **Applied Machine Learning Research (Particularly in Computer Vision), Distributed Scalable Systems, etc.**
+- 🌱 My interests include, broadly: **Applied Machine Learning Research (Particularly in Computer Vision), Distributed Scalable Systems, etc.**
 
 - ✨ Curious about my work? Dive into the pinned repositories below.
 
